@@ -16,9 +16,10 @@ export default function HomeScreen() {
           source={require('@/assets/images/partial-react-logo.png')}
           style={styles.reactLogo}
         />
-      }>
+      }>      
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Hi, Me</ThemedText>
+        <ThemedText type="title">Nasa Link Ang Comment Section</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
