@@ -18,7 +18,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Nasa Link Ang Comment Section, Thanks</ThemedText>
+        <ThemedText type="title">Nasa Link Ang Comment Section, Thanks Guys</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
